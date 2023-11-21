@@ -29,4 +29,4 @@ Android phone : iPhone = 5.5 : 1
 speech recognition machine translation, voiceprint recognition
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
