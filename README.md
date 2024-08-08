@@ -4,7 +4,7 @@
 ## Description
 156 Speakers - Mobile Telephony Malay Speech Data_Reading is recorded by native Malay speakers in the quiet environment. The recording is rich in content, covering multiple categories such as economy, entertainment, news, oral language, numbers, and letters. Around 450 sentences for each speaker. The effective time is 134 hours. All texts are manually transcribed to ensure high accuracy.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/73?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/73?source=Github
 
 
 ## Format
